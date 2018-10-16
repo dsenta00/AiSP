@@ -1,0 +1,3 @@
+﻿  Source.c
+c:\users\andreas\source\repos\projekt_vjezba1\projekt_vjezba1\source.c(112): warning C4715: 'ReadStudentsFromFile': not all control paths return a value
+  Projekt_Vjezba1.vcxproj -> C:\Users\Andreas\source\repos\Projekt_Vjezba1\Debug\Projekt_Vjezba1.exe
